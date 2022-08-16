@@ -1,11 +1,11 @@
 # file-upload-demo
 
 # Using Technology
-spring web mvc
-spring jdbc
-mysql
-jsp,jstl
-hibernate validator
+spring web mvc,
+spring jdbc,
+mysql,
+jsp,jstl,
+hibernate validator,
 lombok
 
 
