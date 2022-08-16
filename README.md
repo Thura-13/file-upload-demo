@@ -27,7 +27,7 @@ lombok
 
 ![Screenshot from 2022-08-10 16-06-39](https://user-images.githubusercontent.com/93853354/183873392-1cac3482-54f2-483f-bdd7-ecd0b337aed8.png)
 
-# Upload File Fails because category name cannot not be empty
+# Upload File Fails because validation error
 
 ![Screenshot from 2022-08-10 16-08-51](https://user-images.githubusercontent.com/93853354/183874029-5da8b48a-3212-4182-81cb-917748a80c7e.png)
 
